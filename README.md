@@ -1,1 +1,1 @@
-<img src="README.gif" width="1000" height="500" alt="programmer">
+<img src="README.gif" width="700" height="500" alt="programmer">
